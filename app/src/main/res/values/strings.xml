@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImplicitIntent</string>
+    <string name="url">URL:</string>
+    <string name="url_field" />
+    <string name="launchbutton">Launch</string>
+    <string name="phoneLabel">Phone:</string>
+    <string name="phoneField" />
+    <string name="ringbutton">RIng</string>
+</resources>
